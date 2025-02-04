@@ -1,7 +1,7 @@
  <h1 align="center">🚀 #  Bem-vindo ao meu GitHub! 🚀</h1>  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B5082&height=100&section=header"/>
 </p>
 <h3 align="center">
   🚀 Em transição para <strong>Ciência de Dados e Suporte</strong>  
