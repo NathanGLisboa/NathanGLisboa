@@ -1,44 +1,54 @@
-# 🚀 Bem-vindo ao meu GitHub!
+ <h1 align="center">🚀 #  Bem-vindo ao meu GitHub! 🚀</h1>  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=005C9C&height=200&section=header&text=Ciência%20de%20Dados&fontColor=FFFFFF&fontSize=45&animation=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=header"/>
+</p>
+<h3 align="center">
+  🚀 Em transição para <strong>Ciência de Dados e Suporte</strong>  
+  📊 Apaixonado por tecnologia, análise de dados e inovação!  
 </p>
 
-## 💼 Sobre Mim
+---
 
-🔹 Em transição para a área de *Ciência de Dados*  
-🔹 Estudante de *Análise de Dados na EBAC*  
-🔹 Apaixonado por dados, tecnologia e inovação!
+## 🎯 Sobre mim  
+💻 Cursando *Análise de Dados na EBAC*  
+📍 *Joinville - SC*  
+📊 Explorando *SQL, Python, Power BI e Modelagem de Dados*  
 
-## 🔧 Tecnologias & Ferramentas
+Sou um profissional migrando para a área de *dados e suporte, combinando minha experiência anterior em **CRM, compras e atendimento ao cliente* com habilidades técnicas para análise e otimização de processos.  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-SQL-2F4F4F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-0066CC?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Pandas-FF1493?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-32CD32?style=for-the-badge&logo=jupyter&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+---
+
+## 🔧 Tecnologias & Ferramentas  
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-800080?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel-9370DB?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-663399?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
 
 ## 📊 Estatísticas do GitHub  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=purple&hide_border=true" alt="Estatísticas do GitHub de Nathan" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanlisboa&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlisboa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-## 📬 Entre em Contato
+📌 Projetos em breve!  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nathan-lisboa-434b44163?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nathanglisbon@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=005C9C&height=200&section=footer&fontColor=FFFFFF"/>
-</p>
+## 📬 Entre em Contato  
+📧 *E-mail:* [nathan.lisboa@outlook.com](mailto:nathan.lisboa@outlook.com)  
+🔗 *LinkedIn:* [linkedin.com/in/nathan-lisboa-434b44163?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/nathan-lisboa-434b44163?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+🔗 *GitHub:* [github.com/seu-username](https://github.com/seu-username)  
+
+💡 Sempre aberto a novas conexões e oportunidades na área de dados e suporte!  
+
+---
+
+### 🚀 "Transformando dados em conhecimento e soluções!"
+
